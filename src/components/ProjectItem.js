@@ -6,7 +6,7 @@ function ProjectItem({ name, about, technologies }) {
       <h3>{name}</h3>
       <p>{about}</p>
       <div className="technologies">
-        <span id="technology"></span>
+        <span>technology</span>
       </div>
     </div>
   );
